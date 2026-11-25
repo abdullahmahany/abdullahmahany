@@ -1,6 +1,7 @@
 # Abdullah Mahany
 
 **Cybersecurity (SOC / Blue Team) · Flutter & Full-Stack Python · Computer Science teacher**
+
 Riyadh, Saudi Arabia
 
 B.Sc. Computer Science & Artificial Intelligence, Benha University (2019 – 2024). Field: Information Security & Digital Forensics.
